@@ -187,7 +187,7 @@ a:hover{
         /* height:auto; */
         top:15%;
     }
-    .body-text+p{
+   #main-text{
         font-size:22px;
     }
     .about-class{
