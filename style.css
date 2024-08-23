@@ -187,18 +187,18 @@ a:hover{
         /* height:auto; */
         top:15%;
     }
-/*     .body-text p{
+    .body-text+p{
         font-size:22px;
-    } */
+    }
     .about-class{
         font-size:15px;
     }
     h3{
         font-size: smaller;
     }
-    .body-container{
+/*     .body-container{
         height: 700px;
-    }
+    } */
 }
 
 @media all and (max-width:380px){
