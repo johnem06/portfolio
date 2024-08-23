@@ -36,18 +36,19 @@ nav{
 }
 .text-image h2{
     /* position: absolute */
-    margin-left: 40px;
+    margin-left: 65px;
 }
 img{
     border-radius: 50px;
-    height:25px;
-    width:25px;
+    height:60px;
+    width:50px;
     position:absolute;
     bottom:0;
     /* display:; */
     
     /* margin-bottom: 0; */
-    border: 5px solid black
+    /* border: 3px solid rgb(154, 154, 231); */
+    background-color: rgb(52, 52, 181);;
 }
 button{
     border:none;
@@ -87,6 +88,7 @@ button:hover{
 h3{
     margin-top: 0px;
     color:rgb(52, 52, 181);
+    margin-left:65px; ;
 }
 h2{
     margin-bottom: 0px;
@@ -166,6 +168,7 @@ a:hover{
     .body-text{
         position:absolute;
         height: 60%;
+        /* height:auto; */
         top:20%;
     }
 }
@@ -174,10 +177,17 @@ a:hover{
     .body-text{
         position:absolute;
         height: 70%;
+        /* height:auto; */
         top:15%;
     }
     .about-class{
         font-size:15px;
+    }
+    h3{
+        font-size: smaller;
+    }
+    .body-container{
+        height: auto;
     }
 }
 
@@ -185,9 +195,19 @@ a:hover{
     .body-text{
         position:absolute;
         height: 83%;
+        /* height:auto; */
         top:8.5%;
     }
     .about-class{
         font-size:14px;
+    }
+    h2{
+        font-size:30px;
+    }
+    h3{
+        font-size: smaller;
+    }
+    .body-container{
+        height: auto;
     }
 }
