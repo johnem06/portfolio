@@ -171,6 +171,10 @@ a:hover{
         /* height:auto; */
         top:20%;
     }
+        #button4{
+        height: 95px;
+        width:45px;
+    }
 }
 
 @media all and (max-width:500px){
@@ -190,11 +194,7 @@ a:hover{
         font-size: smaller;
     }
     .body-container{
-        height: 700px;
-    }
-    button{
-        height: larger;
-        width:larger;
+        height: 650px;
     }
 }
 
