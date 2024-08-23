@@ -193,8 +193,8 @@ a:hover{
         height: 700px;
     }
     button{
-        height: 40px;
-        width:90px;
+        height: larger;
+        width:larger;
     }
 }
 
