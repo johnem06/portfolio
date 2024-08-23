@@ -175,6 +175,9 @@ a:hover{
         width: 100px;
         height:45px;
     }
+     .body-container{
+        height: 650px;
+    }
 }
 
 @media all and (max-width:500px){
@@ -194,7 +197,7 @@ a:hover{
         font-size: smaller;
     }
     .body-container{
-        height: 650px;
+        height: 700px;
     }
 }
 
