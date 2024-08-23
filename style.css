@@ -180,6 +180,9 @@ a:hover{
         /* height:auto; */
         top:15%;
     }
+    .body-text p{
+        font-size:22px;
+    }
     .about-class{
         font-size:15px;
     }
@@ -188,6 +191,10 @@ a:hover{
     }
     .body-container{
         height: 700px;
+    }
+    button{
+        height: 40px;
+        width:90px;
     }
 }
 
